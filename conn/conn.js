@@ -4,7 +4,7 @@ const conn = async (req, res) => {
   try {
     await mongoose
       .connect(
-        "mongodb+srv://yashboraste23:Yash123@cluster0.xez2rk6.mongodb.net/"
+        "mongodb+srv://tejalmahale555:Tej@l555@cluster0.q1ybrhv.mongodb.net/"
       )
       .then(() => {
         console.log("Connected");
